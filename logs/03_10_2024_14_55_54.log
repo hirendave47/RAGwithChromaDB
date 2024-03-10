@@ -1,0 +1,6 @@
+[2024-03-10 14:55:56,961] 106 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+[2024-03-10 14:56:00,562] 212 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+[2024-03-10 14:56:23,894] 402 PyPDF2._reader - WARNING - Object 649 1 found
+[2024-03-10 14:56:26,043] 20 chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[2024-03-10 14:58:26,805] 402 PyPDF2._reader - WARNING - Object 649 1 found
+[2024-03-10 14:59:42,495] 402 PyPDF2._reader - WARNING - Object 649 1 found

@@ -1,0 +1,3 @@
+[2024-03-10 14:46:25,280] 106 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+[2024-03-10 14:46:29,254] 212 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+[2024-03-10 14:46:35,698] 20 chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.

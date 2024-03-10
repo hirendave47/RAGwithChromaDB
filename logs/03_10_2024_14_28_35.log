@@ -1,0 +1,2 @@
+[2024-03-10 14:28:38,392] 106 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+[2024-03-10 14:28:42,638] 212 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps

@@ -1,0 +1,4 @@
+[2024-03-10 14:30:09,911] 106 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+[2024-03-10 14:30:13,055] 212 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+[2024-03-10 14:30:47,266] 20 chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[2024-03-10 14:30:49,328] 347 chromadb.segment.impl.vector.local_persistent_hnsw - WARNING - Number of requested results 4 is greater than number of elements in index 2, updating n_results = 2
