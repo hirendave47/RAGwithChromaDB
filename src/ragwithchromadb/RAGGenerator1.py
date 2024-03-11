@@ -86,7 +86,7 @@ print(text[:5])  # Print the first 5 items of the 'text' list
 
 
 
-HUGGING_API_TOKEN = "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"
+HUGGING_API_TOKEN = ""
 
 huggingface_ef = embedding_functions.HuggingFaceEmbeddingFunction(
     api_key=HUGGING_API_TOKEN,
